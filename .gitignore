@@ -1,2 +1,5 @@
 node_modules/
+gatsby/.cache/
+gatsby/public/
+
 #test
